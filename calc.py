@@ -41,23 +41,23 @@ num2 = int(number2)
 
 #As you can see above, the if sentence will check what operator was typed, and this functions will do what the typed operator is for.
 
-#This function will ADD the numbers between so, and return the result.
+#This function will ADD the numbers between each one, and return the result.
 def suma(arg1, arg2):
 	return arg1 + arg2
 
-#This function will SUBSTRACT the numbers between so, and return the result.
+#This function will SUBSTRACT the numbers between each one, and return the result.
 def resta(arg1, arg2):
 	return arg1 - arg2
 
-#This function will DIVIDE the numbers between so,and return the result.
+#This function will DIVIDE the numbers between each one,and return the result.
 def div(arg1, arg2):
 	return arg1 / arg2
 
-#This function will MULTIPLY the numbers between so, and return the result.
+#This function will MULTIPLY the numbers between each one, and return the result.
 def mult(arg1, arg2):
 	return arg1 * arg2
 
-#This function will POTENCY the numbers between so, and return the result.
+#This function will POTENCY the numbers between each one, and return the result.
 def pot(arg1, arg2):
 	return arg1 ** arg2
 

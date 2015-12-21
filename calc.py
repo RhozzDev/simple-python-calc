@@ -9,7 +9,7 @@
 #This imports a library to get the date time, i put this only to make the script looks better.
 from datetime import datetime
 
-#now will be the main variable touse for date time variables.
+#now will be the main variable to use for date time variables.
 now = datetime.now()
 #This will select the current hour, minutes, seconds, day, month and year.
 hours = now.hour

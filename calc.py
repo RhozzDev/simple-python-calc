@@ -76,4 +76,4 @@ elif operator == "**":
 else:
 	print "\nSorry, but the operator is not recognized, please try again."
 
-#End of Script z3 (z3 means a styled heart)
+#End of Script z3 (z3 means a heart with style)

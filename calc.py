@@ -45,19 +45,19 @@ num2 = int(number2)
 def suma(arg1, arg2):
 	return arg1 + arg2
 
-#This function will SUBSTRACT the numbers between each one, and return the result.
+#This function will SUBSTRACT the numbers between each, and return the result.
 def resta(arg1, arg2):
 	return arg1 - arg2
 
-#This function will DIVIDE the numbers between each one,and return the result.
+#This function will DIVIDE the numbers between each,and return the result.
 def div(arg1, arg2):
 	return arg1 / arg2
 
-#This function will MULTIPLY the numbers between each one, and return the result.
+#This function will MULTIPLY the numbers between each, and return the result.
 def mult(arg1, arg2):
 	return arg1 * arg2
 
-#This function will POTENCY the numbers between each one, and return the result.
+#This function will POTENCY the numbers between each, and return the result.
 def pot(arg1, arg2):
 	return arg1 ** arg2
 
